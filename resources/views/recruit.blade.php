@@ -15,7 +15,7 @@
                 <div class="pagesHero_txtWrapper">
                     <h1 class="pagesHero_title">RECRUIT</h1>
                     <p class="pagesHero_txt">
-                        Challenge Everithing for Your future<br>
+                        Challenge Everything for Your future<br>
                         という理念のもと、自分の成長にこだわり、<br>
                         自ら能動的かつ迅速かつ柔軟に動き、結果を残す人材を求めています。
                     </p>
@@ -172,7 +172,7 @@
                             </h2>
                         </header>
                         <p class="tabContent_innerTxt">
-                            FUTURESのWebディレクターは、制作全てに関わることが出来ます。<br>
+                            NEXTITMのWebディレクターは、制作全てに関わることが出来ます。<br>
                             クライアントとの打ち合わせからクリエイターへの指示出しなど納品まで積極的にプロジェクトの舵を握っていただきます。<br>
                             様々な種類のWeb制作において、幅広く活躍してください！
                         </p>

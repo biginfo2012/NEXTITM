@@ -118,17 +118,18 @@
             <section class="about">
                 <section class="company">
                     <div class="company_container">
-                        <img class="company_bg" src="{{asset('img/company_bg.jpg')}}"
-                             alt="company">
+                        <img class="company_bg" src="{{asset('img/Buildings.jpg')}}"
+                             alt="company" style="opacity: 0.5;">
                         <div class="company_contentWrapper">
                             <div class="animationTargetWrapper">
                                 <h2 class="company_title scrollAnimation"
                                     style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">COMPANY</h2>
                                 <p class="company_txt scrollAnimation"
                                    style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
-                                    私たちFUTURESはクライアントとユーザーの間に存在しております。<br>
-                                    常にユーザーのための未来を考え、より良いサービス、新たな価値を提供し続けます<br class="pc">
-                                    皆様のご期待に添えますよう全力で臨みます。
+                                    わが社は、法令の順守と人権を尊重することを基本に内には和をもって社をととのえ<br>
+                                    技術の向上と能率の増進につとめて社業の進展を期し、
+                                    外にはお客様の信用と満足を得ることに努め、<br>
+                                    株主の期待に応えるとともに、地域社会の発展にも貢献できる企業になることを念願としています。
                                 </p>
                                 <a href="{{route('company')}}" class="futuresBtn scrollAnimation"
                                    style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">VIEW MORE</a>
@@ -138,7 +139,7 @@
                 </section>
                 <section class="service">
                     <div class="service_container">
-                        <img class="service_img" src="{{asset('img/service.jpg')}}"
+                        <img class="service_img" src="{{asset('img/service1.jpg')}}"
                              alt="service">
                         <div class="service_contentWrapper">
                             <div class="animationTargetWrapper">
@@ -146,7 +147,7 @@
                                     style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">SERVICE</h2>
                                 <p class="service_txt scrollAnimation"
                                    style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
-                                    Webデザイン、オフィスソリューション、店舗コンサルティングを通し<br class="pc">
+                                    通信機器販売、通信機器施工、配管施工、水道施工を通し<br class="pc">
                                     全てのユーザー・クライアントが満足できるサービスの提供を目指しております。
                                 </p>
                                 <a href="{{route('service')}}" class="service_linkBtn scrollAnimation"
@@ -163,15 +164,18 @@
                                     style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">RECRUIT</h2>
                                 <p class="recruit_txt scrollAnimation"
                                    style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
-                                    ”Challenge Everithing for Your future”<br>
-                                    という理念のもと、自分の成長にこだわり、<br class="pc">
-                                    自ら能動的かつ迅速かつ柔軟に動き、結果を残す人材を求めています。
+                                    通信関連の建設業として発展してきた当社ですが、<br>
+                                    近年では通信関連の保守・運用事業、<br>
+                                    そのための優れた人材を育成しています。<br>
+                                    当社では社会インフラを支える情報通信や新エネルギー、<br>
+                                    そしてITソリューションに興味のある若い人たちを<br>
+                                    広く求めています。
                                 </p>
                                 <a href="{{route('recruit')}}" class="recruit_linkBtn scrollAnimation"
                                    style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">VIEW MORE</a>
                             </div>
                         </div>
-                        <img src="{{asset('img/recruit.png')}}" alt="recruit"
+                        <img src="{{asset('img/talent.jpg')}}" alt="recruit"
                              class="recruit_img">
                     </div>
                 </section>

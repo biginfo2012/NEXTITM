@@ -15,7 +15,7 @@
                 <div class="pagesHero_txtWrapper">
                     <h1 class="pagesHero_title">COMPANY</h1>
                     <p class="pagesHero_txt">
-                        私たちFUTURESはお客様への配慮を忘れず、ユーモアのある革新的なサービスをご提供を推進致します。<br>
+                        私たちNEXTITMはお客様への配慮を忘れず、ユーモアのある革新的なサービスをご提供を推進致します。<br>
                         常日頃、パートナーとしてあることを考え、ニーズを超えた、ウォントのご提供を推進致します。
                     </p>
                 </div>
@@ -32,7 +32,7 @@
                         <tbody>
                         <tr>
                             <th>企業名</th>
-                            <td>株式会社FUTURES</td>
+                            <td>株式会社NEXTITM</td>
                         </tr>
                         <tr>
                             <th>設立</th>
