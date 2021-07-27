@@ -11,23 +11,23 @@
                 <div class="hero_container">
                     <p id="hero_text1">
                         <span class="hero_text1Element" data-id="0"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">C</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">お</span>
                         <span class="hero_text1Element" data-id="1"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">H</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">客</span>
                         <span class="hero_text1Element" data-id="2"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">A</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">様</span>
                         <span class="hero_text1Element" data-id="3"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">L</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">の</span>
                         <span class="hero_text1Element" data-id="4"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">L</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">最</span>
                         <span class="hero_text1Element" data-id="5"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">E</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">高</span>
                         <span class="hero_text1Element" data-id="6"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">N</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">に</span>
                         <span class="hero_text1Element" data-id="7"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">G</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">挑</span>
                         <span class="hero_text1Element" data-id="8"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">E</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">み</span>
                     </p>
                     <svg id="handwritingmask" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 790 450">
                         <image xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -86,31 +86,31 @@
                     </svg>
                     <p id="hero_text2">
                         <span class="hero_text2Element" data-id="0"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">F</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"></span>
                         <span class="hero_text2Element" data-id="1"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">O</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"></span>
                         <span class="hero_text2Element" data-id="2"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">R&nbsp;</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">続</span>
                         <span class="hero_text2Element" data-id="3"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">Y</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">け</span>
                         <span class="hero_text2Element" data-id="4"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">O</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">る</span>
                         <span class="hero_text2Element" data-id="5"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">U</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">会</span>
                         <span class="hero_text2Element" data-id="6"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">R</span><br>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">社</span>
                         <span class="hero_text2Element" data-id="7"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">F</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">で</span>
                         <span class="hero_text2Element" data-id="8"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">U</span>
-                        <span class="hero_text2Element" data-id="9"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">T</span>
-                        <span class="hero_text2Element" data-id="10"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">U</span>
-                        <span class="hero_text2Element" data-id="11"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">R</span>
-                        <span class="hero_text2Element" data-id="12"
-                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">E</span>
+                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">す</span>
+{{--                        <span class="hero_text2Element" data-id="9"--}}
+{{--                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">T</span>--}}
+{{--                        <span class="hero_text2Element" data-id="10"--}}
+{{--                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">U</span>--}}
+{{--                        <span class="hero_text2Element" data-id="11"--}}
+{{--                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">R</span>--}}
+{{--                        <span class="hero_text2Element" data-id="12"--}}
+{{--                              style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">E</span>--}}
                     </p>
                 </div>
             </section>
@@ -129,7 +129,7 @@
                                     わが社は、法令の順守と人権を尊重することを基本に内には和をもって社をととのえ<br>
                                     技術の向上と能率の増進につとめて社業の進展を期し、
                                     外にはお客様の信用と満足を得ることに努め、<br>
-                                    株主の期待に応えるとともに、地域社会の発展にも貢献できる企業になることを念願としています。
+                                    客様の期待に応えるとともに、地域社会の発展にも貢献できる企業になることを念願としています。
                                 </p>
                                 <a href="{{route('company')}}" class="futuresBtn scrollAnimation"
                                    style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">VIEW MORE</a>
