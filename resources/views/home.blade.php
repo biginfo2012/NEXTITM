@@ -34,7 +34,7 @@
         <article id="frontPage" class="content-area">
             <section class="hero">
                 <div class="hero_container" style="width: 100%">
-                    <p id="hero_text1" style="width: 100%">
+                    <p id="hero_text1" style="">
                         <span class="hero_text1Element" data-id="0"
                               style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">お</span>
                         <span class="hero_text1Element" data-id="1"
@@ -56,7 +56,7 @@
                     </p>
                     <svg id="handwritingmask" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 790 450">
                     </svg>
-                    <p id="hero_text2" style="width: 100%">
+                    <p id="hero_text2" style="">
                         <span class="hero_text2Element" data-id="0"
                               style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">挑</span>
                         <span class="hero_text2Element" data-id="1"
