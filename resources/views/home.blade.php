@@ -33,9 +33,7 @@
 
         <article id="frontPage" class="content-area">
             <section class="hero">
-                <div class="hero_container" style="background-image: url('/img/logo.png');
-                    background-size: 80%; background-repeat: no-repeat; background-position-y: center; background-position-x: center;
-                    -webkit-animation: test 4s normal; animation: test 4s normal;animation-delay: 3s;-webkit-animation-delay: 3s;">
+                <div class="hero_container" style="">
                     <p id="hero_text1">
                         <span class="hero_text1Element" data-id="0"
                               style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">お</span>
