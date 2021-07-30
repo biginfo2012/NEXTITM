@@ -250,7 +250,7 @@ template {
 }
 
 /*--------------------------------------------------------------
-# common fonts 
+# common fonts
 --------------------------------------------------------------*/
 @font-face {
   font-family: "Cocogoose";
@@ -1411,23 +1411,24 @@ body.home #header {
 }
 
 .hero_container {
-  height: 500px;
+  height: 300px;
   overflow: hidden;
   position: absolute;
   top: -163px;
-  left: 12vw;
+  left: 20vw;
 }
 
 #hero_text1, #hero_text2 {
   margin: 0;
   font-size: 0;
+  font-weight: bold;
   font-family: "Cocogoose", sans-serif;
 }
 
 #hero_text1 {
   position: absolute;
   top: 50px;
-  left: 6.4vw;
+  left: 12.6vw;
 }
 
 #hero_text2 {
@@ -1439,7 +1440,7 @@ body.home #header {
 
 .hero_text1Element, .hero_text2Element {
   opacity: 0;
-  font-size: 80px;
+  font-size: 60px;
   letter-spacing: 0.25em;
   display: inline-block;
 }

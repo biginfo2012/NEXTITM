@@ -9,7 +9,6 @@
 
 @section('content')
     <main id="content" class="site-content">
-
         <article id="servicePage" class="content-area">
             <header class="pagesHero">
                 <div class="pagesHero_txtWrapper">
@@ -193,11 +192,8 @@
                         </div>
                     </div>
                 </section> <!-- storeConsulting -->
-
             </div> <!-- pagesContainer -->
         </article>
-
-
     </main>
 @endsection
 

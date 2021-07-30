@@ -131,14 +131,14 @@
 <body class="home page-template-default page page-id-48 wp-custom-logo">
 <div id="page" class="site">
     <!-- <a class="skip-link screen-reader-text" href="#content"></a> -->
-    <div class="gridLines">
-        <span class="grid_line"></span>
-        <span class="grid_line"></span>
-        <span class="grid_line"></span>
-        <span class="grid_line"></span>
-        <span class="grid_line"></span>
-        <span class="grid_line last"></span>
-    </div>
+{{--    <div class="gridLines">--}}
+{{--        <span class="grid_line"></span>--}}
+{{--        <span class="grid_line"></span>--}}
+{{--        <span class="grid_line"></span>--}}
+{{--        <span class="grid_line"></span>--}}
+{{--        <span class="grid_line"></span>--}}
+{{--        <span class="grid_line last"></span>--}}
+{{--    </div>--}}
 
     @include('layout.header')
 
