@@ -98,7 +98,7 @@
                 </div>
                 <div class="access_mapWrapper">
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12967.358324988054!2d139.6955905!3d35.6563238!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9fda27e16cfc4c7f!2z5qCq5byP5Lya56S-RlVUVVJFUw!5e0!3m2!1sja!2sjp!4v1543059021192"
+                        src="https://maps.google.com/maps?q=35.6103329,140.1224855&hl=jp&z=14&amp;output=embed"
                         class="access_map" width="1250" height="600" frameborder="0" style="border:0"
                         allowfullscreen="">
                     </iframe>
