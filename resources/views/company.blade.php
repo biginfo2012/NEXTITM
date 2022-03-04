@@ -15,8 +15,7 @@
                 <div class="pagesHero_txtWrapper">
                     <h1 class="pagesHero_title">COMPANY</h1>
                     <p class="pagesHero_txt">
-                        私たちNEXTITMはお客様への配慮を忘れず、ユーモアのある革新的なサービスをご提供を推進致します。<br>
-                        常日頃、パートナーとしてあることを考え、ニーズを超えた、ウォントのご提供を推進致します。
+                        私たちNEXTITMはお客様への配慮を忘れず、革新的なサービスをご提供を推進致します。
                     </p>
                 </div>
             </header>
@@ -50,7 +49,7 @@
                         </tr>
                         <tr>
                             <th>所在地</th>
-                            <td>東京都渋谷区道玄坂1丁目22番10号 若葉ビル4F</td>
+                            <td>千葉県千葉市中央区中央1-10-5　パークサイド千葉4F</td>
                         </tr>
                         <tr>
                             <th>主要取引先銀行</th>

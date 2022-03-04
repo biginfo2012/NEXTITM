@@ -110,6 +110,8 @@
     <link rel="stylesheet" id="futures-style-css"
           href="{{ asset('css/style_theme.css') }}" type="text/css" media="all">
     <script type="text/javascript" src="{{ asset('js/jquery.js?ver=1.12.4') }}"></script>
+    <script type="text/javascript" src="{{ asset('js/jquery-1.12.4.min.js') }}"></script>
+
     <script type="text/javascript"
             src="{{ asset('js/jquery-migrate.min.js?ver=1.4.1') }}"></script>
 {{--    <link rel="https://api.w.org/" href="https://futures-inc.co.jp/wp-json/">--}}
@@ -129,6 +131,15 @@
         }</style>
 </head>
 <body class="home page-template-default page page-id-48 wp-custom-logo">
+<!-- preloader -->
+<div id="preloader">
+    <div id="spinner">
+        <div class="preloader-dot-loading">
+            <div class="cssload-loading"><i></i><i></i><i></i><i></i></div>
+        </div>
+    </div>
+{{--    <div id="disable-preloader" class="btn btn-default btn-sm"></div>--}}
+</div>
 <div id="page" class="site">
     <!-- <a class="skip-link screen-reader-text" href="#content"></a> -->
 {{--    <div class="gridLines">--}}
@@ -149,6 +160,15 @@
 </div><!-- #page -->
 
 <script type="text/javascript">
+    let $preloader = $('#preloader');
+    $(document).ready(function () {
+        $preloader.fadeOut();
+        $preloader.children('#disable-preloader').on('click', function(e) {
+            $preloader.fadeOut();
+            return false;
+        });
+    })
+
     /* <![CDATA[ */
     var wpcf7 = {
         "apiSettings": {

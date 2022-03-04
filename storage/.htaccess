@@ -1,0 +1,12 @@
+RewriteEngine on
+
+# First, check if a specific type is being requested
+RewriteCond %{REQUEST_URI} ^/?(css|fonts|img|js|revolution)(/.*)?$ [NC]
+RewriteRule ^.*$ /public/%1%2 [L]
+
+
+# Otherwise, continue:
+RewriteCond %{THE_REQUEST} /public/index.php/([^\s?]*) [NC]
+RewriteRule ^ %1 [L,NE,R=302]
+
+RewriteRule ^((?!public/).*)$ public/index.php/$1 [L,NC]
